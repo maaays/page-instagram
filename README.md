@@ -1,4 +1,4 @@
-:desktop_computer: page-instagram
+:desktop_computer: INTERFACE DO INSTAGRAM
 
 Atividade pratica da Digital Innovation:
 
